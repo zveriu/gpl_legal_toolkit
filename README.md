@@ -1,9 +1,4 @@
-gpl_legal_toolkit
-=================
-
-gpl_legal_toolkit (DRAFT, possibly will go as LaTeX format)
-
-###############################################################################
+____________________________________________________________________________________________________________________________________
 
 \remark{CASE: You found a GPL violation in a $INFRIGING_PRODUCT of $INFRIGING_VENDOR_COMPANY. 
 First, it is very important to find the jurisdiction of the $INFRINGING_VENDOR_COMPANY.
@@ -11,10 +6,12 @@ Go to their website, check Contact Us or About Us. If it's USA, Canada or EU, yo
 since these jurisdiction take the IP and Copyright infrigements rather serious, and not just 
 when enforcing music, movies, etc. copyrights.}
 
-###############################################################################
+____________________________________________________________________________________________________________________________________
 
 \remark{CASE: Initiate the GPL request process for product $INFRIGING_PRODUCT of $INFRIGING_VENDOR_COMPANY}
 
+
+\remark{$GPL_INITIATOR_FULL_NAME}
 Hello,
 
 First, thanks for taking notice of my case and unusual requirement it bears.
@@ -67,18 +64,20 @@ Looking forward for your amiable help.
 
 Thanks a lot for your support in regards of GPL issues.
 
-Kind regards,
+Regards,
 $GPL_INITIATOR_FULL_NAME
 
-###############################################################################
+____________________________________________________________________________________________________________________________________
 
 \remark{CASE: $INFRINGING_VENDOR_COMPANY will try to get away with lowest cost, overhead, headache possible, thus they will try to direct you to some Asian outsource contractor, which you will not want or will not be able to deal anyways. Just use the following line of thought on insisting your position on getting the sources from $INFRINGING_VENDOR_COMPANY itself, not from $SUPPLIER.}
 
+
+\remark{$INFRINGING_VENDOR_COMPANY}
 As for acquiring the GPL(Linux, etc.) sources, you will have to communicate with $SUPPLIER, our contractor in $SUPPLIER_COUNTRY. Ideally, they will have access to these files – however, it is possible that they outsourced the firmware production. Good luck on your quest.
 $INFRINGING_VENDOR_COMPANY
 
--------------------------------------------------------------------------------
 
+\remark{$GPL_INITIATOR_FULL_NAME}
 Hello,
 
 I think I must disagree with you here. Even though $SUPPLIER is your contractor/supplier, I have purchased a $INFRINGINT_VENDOR_COMPANY product which, to the best of my understanding, should allow me to deal with $INFRINGINT_VENDOR_COMPANY and not all the suppliers/contractors/vendors which were involved in the design and production of the $INFRINGING_PRODUCT product. Sending me to pursuit $SUPPLIER is like if I would by a Ford, which have various 3rd party vendor pieces in it, and once one of those pieces need to be replaced/repaired/upgraded, I would be sent to China to seek that vendor.
@@ -89,18 +88,20 @@ I reiterate my position exposed in my initial mail containing the request.
 
 Looking forward for your reply and assistance.
 
-Kind regards,
+Regards,
 $GPL_INITIATOR_FULL_NAME
 
-###############################################################################
+____________________________________________________________________________________________________________________________________
 
 \remark{CASE: you didn't receive any reply or acknowledgement from the $INFRIGING_VENDOR_COMPANY following your initial requests}
 \remark{CASE: you receive a conditional denial due to legal uncertainty of the $INFRIGING_VENDOR_COMPANY}
 
+
+\remark{$INFRINGING_VENDOR_COMPANY}
 I am the $MANAGER_POSITION with $INFRIGING_VENDOR_COMPANY. At this time we cannot continue with this request. Please provide a legal document requesting this information to our legal department. Once it has been approved by our lawyers we will be more than happy to assist you with this process.
 
--------------------------------------------------------------------------------
 
+\remark{$GPL_INITIATOR_FULL_NAME}
 Hello,
 
 Please find below my statement regarding the request to access to GPL-related source code contained within $INFRIGING_PRODUCT which I legally bought/own:
@@ -152,28 +153,31 @@ $500,000 fine for a first-time offender and 10
 years in prison and a $1 million fine for a repeat 
 offender. 
 
-###############################################################################
+____________________________________________________________________________________________________________________________________
 
 \remark{CASE: No response and follow up to the previous legal forms, send a final follow up}
 
--------------------------------------------------------------------------------
 
+\remark{$GPL_INITIATOR_FULL_NAME}
 Hello $MANAGER_POSITION,
 
 Since I have no feedback or a fixed date for a response/source-provision, I am afraid I will have to submit the complaints according to the consumer rights and to the GPL rights to all the relevant organizations. I am planning on doing so on $FULL_DATE, as mentioned in my previous email.
 
 However, I hope to hear before that date so that we can work on this issue together, otherwise the legal entities will have to take it up.
 
-###############################################################################
+Regards,
+$GPL_INITIATOR_FULL_NAME
+
+____________________________________________________________________________________________________________________________________
 
 \remark{CASE: Not you should have allocated some time and fill in the complaints forms above, send them by online forms, fax, email - all means possible.
 While filing complaints, kindly request a registration number of the request and provide your contact information in case more details are required for complaint.}
 
-###############################################################################
+____________________________________________________________________________________________________________________________________
 
 \remark{CASE: $INFRIGING_VENDOR_COMPANY might try to win time or play you out, by letting it get forgotten and use templates like
-"After discussion with our engineers, they would need to ask for more information from the IC vendor for the following issue and it might take about N weeks. We will keep you updated.".
+"After discussion with our engineers, they would need to ask for more information from the IC vendor for the following issue and it might take about N weeks. We will keep you updated."
 Follow-up after a week and if concrete results arise, then file the complaints}
 
-###############################################################################
+____________________________________________________________________________________________________________________________________
 
