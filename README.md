@@ -3,7 +3,7 @@ gpl_legal_toolkit
 
 gpl_legal_toolkit (DRAFT, possibly will go as LaTeX format)
 
-===============================================================================
+###############################################################################
 
 \remark{CASE: You found a GPL violation in a $INFRIGING_PRODUCT of $INFRIGING_VENDOR_COMPANY. 
 First, it is very important to find the jurisdiction of the $INFRINGING_VENDOR_COMPANY.
@@ -11,7 +11,7 @@ Go to their website, check Contact Us or About Us. If it's USA, Canada or EU, yo
 since these jurisdiction take the IP and Copyright infrigements rather serious, and not just 
 when enforcing music, movies, etc. copyrights.}
 
-===============================================================================
+###############################################################################
 
 \remark{CASE: Initiate the GPL request process for product $INFRIGING_PRODUCT of $INFRIGING_VENDOR_COMPANY}
 
@@ -70,7 +70,7 @@ Thanks a lot for your support in regards of GPL issues.
 Kind regards,
 $GPL_INITIATOR_FULL_NAME
 
-===============================================================================
+###############################################################################
 
 \remark{CASE: $INFRINGING_VENDOR_COMPANY will try to get away with lowest cost, overhead, headache possible, thus they will try to direct you to some Asian outsource contractor, which you will not want or will not be able to deal anyways. Just use the following line of thought on insisting your position on getting the sources from $INFRINGING_VENDOR_COMPANY itself, not from $SUPPLIER.}
 
@@ -92,7 +92,7 @@ Looking forward for your reply and assistance.
 Kind regards,
 $GPL_INITIATOR_FULL_NAME
 
-===============================================================================
+###############################################################################
 
 \remark{CASE: you didn't receive any reply or acknowledgement from the $INFRIGING_VENDOR_COMPANY following your initial requests}
 \remark{CASE: you receive a conditional denial due to legal uncertainty of the $INFRIGING_VENDOR_COMPANY}
@@ -152,7 +152,7 @@ $500,000 fine for a first-time offender and 10
 years in prison and a $1 million fine for a repeat 
 offender. 
 
-===============================================================================
+###############################################################################
 
 \remark{CASE: No response and follow up to the previous legal forms, send a final follow up}
 
@@ -164,15 +164,16 @@ Since I have no feedback or a fixed date for a response/source-provision, I am a
 
 However, I hope to hear before that date so that we can work on this issue together, otherwise the legal entities will have to take it up.
 
-===============================================================================
+###############################################################################
 
 \remark{CASE: Not you should have allocated some time and fill in the complaints forms above, send them by online forms, fax, email - all means possible.
 While filing complaints, kindly request a registration number of the request and provide your contact information in case more details are required for complaint.}
 
-===============================================================================
+###############################################################################
 
 \remark{CASE: $INFRIGING_VENDOR_COMPANY might try to win time or play you out, by letting it get forgotten and use templates like
-"After discussion with our engineers, they would need to ask for more information from the IC vendor for the following issue and it might take about N weeks. We will keep you updated. "}
+"After discussion with our engineers, they would need to ask for more information from the IC vendor for the following issue and it might take about N weeks. We will keep you updated.".
+Follow-up after a week and if concrete results arise, then file the complaints}
 
-===============================================================================
+###############################################################################
 
