@@ -11,7 +11,8 @@ ________________________________________________________________________________
 \remark{CASE: Initiate the GPL request process for product $INFRIGING_PRODUCT of $INFRIGING_VENDOR_COMPANY}
 
 
-\remark{$GPL_INITIATOR_FULL_NAME}
+\remark{$GPL_INITIATOR_FULL_NAME -> $INFRIGING_VENDOR_COMPANY}
+
 Hello,
 
 First, thanks for taking notice of my case and unusual requirement it bears.
@@ -24,31 +25,31 @@ It would be helpful first to get for the below GPL software list (which is not e
 
 \remark{Adjust this list according to your needs and according to pieces identified in the $INFRIGING_PRODUCT software/firmware):
 
-linux kernel
-busybox
-appweb
-acpid
-hwclock
-boa
-libxml2
-bridge-utils
-net-snmp
-ethtool
-openssl
-expat
-pkg-config
-binutils
-gmp
-mpfr
-uClibc
-fakeroot
-proftpd
-genext2fs
-sysvinit
-buildroot
-gcc (version is sufficient, does not require sources unless a custom version was used to build the firmware of the CV501)
-openssl (version is sufficient, does not require sources unless a custom version was used to build the firmware of the CV501)
-apache httpd
+ - linux kernel
+ - busybox
+ - appweb
+ - acpid
+ - hwclock
+ - boa
+ - libxml2
+ - bridge-utils
+ - net-snmp
+ - ethtool
+ - openssl
+ - expat
+ - pkg-config
+ - binutils
+ - gmp
+ - mpfr
+ - uClibc
+ - fakeroot
+ - proftpd
+ - genext2fs
+ - sysvinit
+ - buildroot
+ - gcc (version is sufficient, does not require sources unless a custom version was used to build the firmware of the product software/firmware)
+ - openssl (version is sufficient, does not require sources unless a custom version was used to build the firmware of the product software/firmware)
+ - apache httpd
 
 Second, once the above list is established, GPL requires them to provide the used source code along with any patches used in building software/firmware for $INFRIGING_PRODUCT, as well as steps/scripts/instructions on how to set the build environment and what steps to follow in order to build a fully functional binary (can be without any proprietary software written by them, but again GPL software mentioned above or modified GPL software is not their property), as well as programs/scripts/steps to upload/burn the built binary onto the device
 
@@ -72,12 +73,14 @@ ________________________________________________________________________________
 \remark{CASE: $INFRINGING_VENDOR_COMPANY will try to get away with lowest cost, overhead, headache possible, thus they will try to direct you to some Asian outsource contractor, which you will not want or will not be able to deal anyways. Just use the following line of thought on insisting your position on getting the sources from $INFRINGING_VENDOR_COMPANY itself, not from $SUPPLIER.}
 
 
-\remark{$INFRINGING_VENDOR_COMPANY}
+\remark{$INFRINGING_VENDOR_COMPANY -> $GPL_INITIATOR_FULL_NAME}
+
 As for acquiring the GPL(Linux, etc.) sources, you will have to communicate with $SUPPLIER, our contractor in $SUPPLIER_COUNTRY. Ideally, they will have access to these files – however, it is possible that they outsourced the firmware production. Good luck on your quest.
 $INFRINGING_VENDOR_COMPANY
 
 
-\remark{$GPL_INITIATOR_FULL_NAME}
+\remark{$GPL_INITIATOR_FULL_NAME -> $INFRINGING_VENDOR_COMPANY}
+
 Hello,
 
 I think I must disagree with you here. Even though $SUPPLIER is your contractor/supplier, I have purchased a $INFRINGINT_VENDOR_COMPANY product which, to the best of my understanding, should allow me to deal with $INFRINGINT_VENDOR_COMPANY and not all the suppliers/contractors/vendors which were involved in the design and production of the $INFRINGING_PRODUCT product. Sending me to pursuit $SUPPLIER is like if I would by a Ford, which have various 3rd party vendor pieces in it, and once one of those pieces need to be replaced/repaired/upgraded, I would be sent to China to seek that vendor.
@@ -97,11 +100,12 @@ ________________________________________________________________________________
 \remark{CASE: you receive a conditional denial due to legal uncertainty of the $INFRIGING_VENDOR_COMPANY}
 
 
-\remark{$INFRINGING_VENDOR_COMPANY}
+\remark{$INFRINGING_VENDOR_COMPANY -> $GPL_INITIATOR_FULL_NAME}
 I am the $MANAGER_POSITION with $INFRIGING_VENDOR_COMPANY. At this time we cannot continue with this request. Please provide a legal document requesting this information to our legal department. Once it has been approved by our lawyers we will be more than happy to assist you with this process.
 
 
-\remark{$GPL_INITIATOR_FULL_NAME}
+\remark{$GPL_INITIATOR_FULL_NAME -> $INFRINGING_VENDOR_COMPANY}
+
 Hello,
 
 Please find below my statement regarding the request to access to GPL-related source code contained within $INFRIGING_PRODUCT which I legally bought/own:
@@ -158,7 +162,8 @@ ________________________________________________________________________________
 \remark{CASE: No response and follow up to the previous legal forms, send a final follow up}
 
 
-\remark{$GPL_INITIATOR_FULL_NAME}
+\remark{$GPL_INITIATOR_FULL_NAME -> $INFRINGING_VENDOR_COMPANY}
+
 Hello $MANAGER_POSITION,
 
 Since I have no feedback or a fixed date for a response/source-provision, I am afraid I will have to submit the complaints according to the consumer rights and to the GPL rights to all the relevant organizations. I am planning on doing so on $FULL_DATE, as mentioned in my previous email.
